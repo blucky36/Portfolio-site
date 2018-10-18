@@ -1,0 +1,37 @@
+.one{
+  display: flex;
+  justify-content: center;
+  margin: -1% -1% -1% -1%;
+}
+.two{
+  display: flex;
+  justify-content: center;
+  margin: -1% -1% -1% -1%;
+}
+.oi{
+  margin: 1% 1% 1% 1%;
+  text-align: center;
+}
+/* cards ^^^^^ */
+body{
+  background: url(https://external-preview.redd.it/in4AeOd0Bh_GpUiE97WYTW6N4STt83huEOPbB5ySasw.jpg?width=960&crop=smart&auto=webp&s=da40c7b416b757bf5ef2766f433306f5017bd7f3) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+.jumbotron{
+  color:white;
+  border: 1px solid white;
+  text-align: center;
+}
+.tall{
+  height: 200px;
+}
+.foot{
+  margin-top: 3%;
+  color: white;
+  text-align: center;
+}
